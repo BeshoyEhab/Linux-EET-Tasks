@@ -18,6 +18,8 @@
 
 ## Part 2
 
+> I use command `docker build -t alpine-<bash/server> .`
+
 alpine-bash/Dockerfile
 
 ```Dockerfile
